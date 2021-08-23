@@ -1,0 +1,26 @@
+{
+     "emplyee1": {
+          "name": "neelam",
+          "desighation": "programer",
+          "age": "24",
+          "salary": "2400"
+     },
+     "emplyee2": {
+          "name": "komal",
+          "desighation": "trainer",
+          "age": "24",
+          "salary": "20000"
+     },
+     "emplyeel": {
+          "name": "anuradha",
+          "desighation": "HR",
+          "age": "25",
+          "salary": "40000"
+     },
+     "emplyeel4": {
+          "name": "Abhishek",
+          "desighation": "manager",
+          "age": "29",
+          "salary": "63000"
+     }
+}
